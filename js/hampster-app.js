@@ -118,8 +118,6 @@
             var col = createHtml(hamster, 'article', 'col-xs-4 col-sm-4 col-md-4 col-lg-4');
             
             content.push(col); 
-            console.log(col);
-            /*a(col, 'main');*/
         });
         
         /* IMPORTANT to add join when passing array to dom, else comma/ ',' vil show*/
