@@ -1,0 +1,46 @@
+{
+    "hamsters": [{
+            "id": 1,
+            "name": "Henning Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hilde Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Harald Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-3.jpg"
+        },
+       {
+            "id": 4,
+            "name": "Hovard Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Halgeir Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Halvar Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Helge Hamster",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed sapien quis magna commodo ultrices quis vel justo. Aliquam non pretium tellus. Nam vitae dolor nec nunc elementum imperdiet. Maecenas blandit luctus est eu hendrerit.",
+            "imgUrl": "./img/hamster-7.jpg"
+        }
+        
+    ]
+}
