@@ -4,7 +4,6 @@
     /* Global variables */
     var navBtns, mainContent;
     
-    
     /* Global functions */
     var getId = function (id) {
         return document.getElementById(id);
